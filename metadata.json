@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineAI",
+  "description": "AI Powered Project Deadline Management Platform with planning, risk prediction, and emergency rescue strategies",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
